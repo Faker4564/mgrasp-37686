@@ -1,24 +1,39 @@
-# README
+# アプリケーション名
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mgrasp
 
-Things you may want to cover:
+# アプリケーション概要
 
-* Ruby version
+個人の進捗状況を把握して、少数組織の管理をすることができる
 
-* System dependencies
+# URL
 
-* Configuration
+# テスト用アカウント
 
-* Database creation
+## 作業状況の設定
+1.ログインページの”アカウントを作成する”ボタンから新規ユーザーの作成を行う。
 
-* Database initialization
+2.トップページ（一覧ページ）の”リストを作成””ボタンからリストの作成を行う
 
-* How to run the test suite
+## 作業内容の作成
+1.作成したリストの”カードを追加”ボタンからカードの作成を行う
 
-* Services (job queues, cache servers, search engines, etc.)
+# アプリケーションを作成した背景
+前職にて、上司に「いまどういった状況？」や「どんな作業をしている？」といった、状況把握をされる事が多くあった。そして、個人の動きを管理している日報等もなく、組織のトップが全体の動きがどういった状況かを把握することが一手間必要だった。この課題から、「個人の作業状況を一目で把握できるものがない」ということが真因であると仮説を立てた。真因を解決するために、個人の動きと現在の作業状況が把握できるアプリケーションを開発することにした。
 
-* Deployment instructions
+# 洗い出した要件
+https://docs.google.com/spreadsheets/d/1aV-tVZYtvdEu3-OKBo6qukAcyZoUqhOpalOwL_sprVI/edit#gid=1785908763
 
-* ...
+# 実装した機能についての画像やGIFおよびその説明
+
+# 実装予定の機能
+
+# データベース設計
+[![Image from Gyazo](https://i.gyazo.com/89757c96ec4dec68997c0aac80aae034.png)](https://gyazo.com/89757c96ec4dec68997c0aac80aae034)
+# 画面遷移図
+[![Image from Gyazo](https://i.gyazo.com/394e362ff2702ca8035bacda4899c88c.png)](https://gyazo.com/394e362ff2702ca8035bacda4899c88c)
+# 環境開発
+
+# ローカルでの動作方法
+
+# 工夫したポイント
